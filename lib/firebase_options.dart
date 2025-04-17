@@ -53,11 +53,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCtlRFQ5e4fGOeGk6DtUzQhoZcQoOJuywM',
-    appId: '1:598152402053:android:59fc808fc256931eee05ec',
-    messagingSenderId: '598152402053',
-    projectId: 'esp32-dht-805af',
-    databaseURL: 'https://esp32-dht-805af-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'esp32-dht-805af.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
   );
 }
