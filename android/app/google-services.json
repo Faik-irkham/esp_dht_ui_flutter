@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "598152402053",
+    "firebase_url": "https://esp32-dht-805af-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "esp32-dht-805af",
+    "storage_bucket": "esp32-dht-805af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598152402053:android:df92aed94dfe739eee05ec",
+        "android_client_info": {
+          "package_name": "com.dhtflutter.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtlRFQ5e4fGOeGk6DtUzQhoZcQoOJuywM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598152402053:android:59fc808fc256931eee05ec",
+        "android_client_info": {
+          "package_name": "com.example.esp_dht"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtlRFQ5e4fGOeGk6DtUzQhoZcQoOJuywM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598152402053:android:bc584e2ec82304efee05ec",
+        "android_client_info": {
+          "package_name": "com.example.fireesp32"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtlRFQ5e4fGOeGk6DtUzQhoZcQoOJuywM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
